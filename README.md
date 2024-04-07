@@ -1,5 +1,4 @@
 # Vertebral-Segmentation
-## Outline:
 Build a deep learning method to perform automatic segmentation of vertebral bones.
 
 ## Method:
